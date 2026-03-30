@@ -33,7 +33,7 @@ Ingeniero de Software enfocado en el desarrollo de sistemas robustos, escalables
 *A continuación se muestran capturas de las interfaces en las que trabajé directamente:*
 | Dashboard de Gestión | Flujo de Edición |
 | :---: | :---: |
-| ![Captura Dashboard](https://via.placeholder.com/400x220?text=Captura+Dashboard+Homlista) | ![Captura CRUD](https://via.placeholder.com/400x220?text=Captura+CRUD+Homlista) |
+| <img src="./img/Homlista-Operators.png" width="400" alt="Vista general de Operadores"> | <img src="./img/Homilsta-CreateOperator" width="400" alt="Crear Operador"> |
 
 ---
 
