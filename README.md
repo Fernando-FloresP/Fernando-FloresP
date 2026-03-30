@@ -1,5 +1,5 @@
 # ¡Hola, soy Fernando! 👋
-### Software Engineer | Fullstack Developer | ML Enthusiast
+### Software Engineer | Jr Fullstack Developer | IT Enthusiast
 
 Ingeniero de Software enfocado en el desarrollo de sistemas robustos, escalables y con un diseño orientado al usuario. Mi experiencia abarca desde la arquitectura de bases de datos complejas hasta la implementación de interfaces dinámicas y análisis de datos.
 
@@ -52,7 +52,7 @@ Ingeniero de Software enfocado en el desarrollo de sistemas robustos, escalables
 
 | 📝 Interfaz de Encuesta (Client-Side) | 📈 Dashboard Administrativo (Panel) |
 | :---: | :---: |
-| <img src="./img/GLN-Survey-Form-Top.png" width="450" alt="Vista de la encuesta para el usuario"> | <img src="./img/GLN-Survey-Home.jpeg" width="450" alt="Panel de administración con gráficas"> |
+| <img src="./img/GLN-Survey-Form-Top.jpeg" width="450" alt="Vista de la encuesta para el usuario"> | <img src="./img/GLN-Survey-Home.jpeg" width="450" alt="Panel de administración con gráficas"> |
 | *Diseño minimalista enfocado en la tasa de finalización.* | *Visualización de métricas y reportes automáticos.* |
 
 | ⚙️ Gestión de Datos | Gestión de Usuarios |
