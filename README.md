@@ -33,7 +33,7 @@ Ingeniero de Software enfocado en el desarrollo de sistemas robustos, escalables
 *A continuación se muestran capturas de las interfaces en las que trabajé directamente:*
 | Dashboard de Gestión | Flujo de Edición |
 | :---: | :---: |
-| <img src="./img/Homlista-Operators.png" width="400" alt="Vista general de Operadores"> | <img src="./img/Homilsta-CreateOperator" width="400" alt="Crear Operador"> |
+| <img src="./img/Homlista-Operators.png" width="400" alt="Vista general de Operadores"> | <img src="./img/Homilsta-CreateOperator.png" width="400" alt="Crear Operador"> |
 
 ---
 
@@ -47,7 +47,7 @@ Ingeniero de Software enfocado en el desarrollo de sistemas robustos, escalables
     - **Reporting:** Creación de funcionalidades para la exportación de métricas y propuestas de mejora basadas en los datos recolectados.
 - **Logro:** Se automatizó el ciclo de feedback, reduciendo el tiempo de generación de reportes de días a segundos.
 - **Stack:** PHP, Laravel, Blade, MySQL.
-- [🔗 Ver Código en GitHub](https://github.com/Fernando-FloresP/GLN-Survey) |
+
 
 ---
 
