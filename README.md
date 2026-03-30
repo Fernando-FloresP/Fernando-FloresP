@@ -48,11 +48,17 @@ Ingeniero de Software enfocado en el desarrollo de sistemas robustos, escalables
 - **Logro:** Se automatizó el ciclo de feedback, reduciendo el tiempo de generación de reportes de días a segundos.
 - **Stack:** PHP, Laravel, Blade, MySQL.
 
+#### 📸 Galería del Proyecto
 
----
+| 📝 Interfaz de Encuesta (Client-Side) | 📈 Dashboard Administrativo (Panel) |
+| :---: | :---: |
+| <img src="./img/GLN-Survey-Form.png" width="450" alt="Vista de la encuesta para el usuario"> | <img src="./img/GLN-Survey-Home.jpeg" width="450" alt="Panel de administración con gráficas"> |
+| *Diseño minimalista enfocado en la tasa de finalización.* | *Visualización de métricas y reportes automáticos.* |
 
-## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Fernando-FloresP&show_icons=true&theme=radical)
+| ⚙️ Gestión de Datos | Gestión de Usuarios |
+| :---: | :---: |
+| <img src="./img/GLN-Survey-Quesions.jpeg" width="450" alt="Gestión de datos"> | <img src="./img/GLN-Survey-NewUser.jpeg" width="450" alt="Gestión de Usuarios"> |
+| *Manejo eficiente de flujos CRUD para administración.* | *Módulo de generación de estrategias basado en datos.* |
 
 ---
 
